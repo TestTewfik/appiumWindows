@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.DesiredCapabilities"/>
+<fullyQualifiedTypeName name="io.appium.java_client.remote.MobileCapabilityType"/>
+<fullyQualifiedTypeName name="io.appium.java_client.android.AndroidDriver"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="io.appium.java_client.android.AndroidElement"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.touch.TouchActions"/>
+<fullyQualifiedTypeName name="io.appium.java_client.touch.TapOptions"/>
+<fullyQualifiedTypeName name="io.appium.java_client.touch.offset.ElementOption"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.internal.TouchAction"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="io.appium.java_client.touch.LongPressOptions"/>
+<fullyQualifiedTypeName name="io.appium.java_client.android.AndroidKeyCode"/>
+<fullyQualifiedTypeName name="io.appium.java_client.android.nativekey.AndroidKey"/>
+<fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
+<fullyQualifiedTypeName name="io.appium.java_client.android.nativekey.KeyEvent"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.ScreenOrientation"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.DeviceRotation"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Point"/>
+<fullyQualifiedTypeName name="io.appium.java_client.TouchAction"/>
+</qualifiedTypeNameHistroy>
